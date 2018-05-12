@@ -1,0 +1,33 @@
+_repo: The-Scientific-American-Boy--13-Or-The-Camp-at-Willow-Clump-Island_15831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15831-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bond, A. Russell (Alexander Russell)
+    alias: Bond, Alexander Russell
+    birthdate: 1876
+    gutenberg_agent_id: '6330'
+    url: http://www.gutenberg.org/2009/agents/6330
+description: ''
+gutenberg_bookshelf:
+- Camping
+- Children's Book Series
+- Woodwork
+gutenberg_issued: '2005-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15831'
+  lccn: 05035782
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcc 'TT'
+- !lcsh 'Sports'
+- !lcsh 'Woodwork'
+title: The Scientific American Boy; Or, The Camp at Willow Clump Island
+url: http://www.gutenberg.org/ebooks/15831
