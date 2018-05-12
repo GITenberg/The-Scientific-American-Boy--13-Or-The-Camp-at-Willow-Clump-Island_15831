@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6330'
     url: http://www.gutenberg.org/2009/agents/6330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15831#The-Scientific-American-Boy--13-Or-The-Camp-at-Willow-Clump-Island
 gutenberg_bookshelf:
 - Camping
 - Children's Book Series
